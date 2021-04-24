@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Operacje_Zbiorowe.dir/objects.a
+C:\Users\cichy\MInGW\bin\ar.exe cr CMakeFiles\Operacje_Zbiorowe.dir/objects.a @CMakeFiles\Operacje_Zbiorowe.dir\objects1.rsp
+C:\Users\cichy\MInGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Operacje_Zbiorowe.dir/objects.a -Wl,--no-whole-archive  -o Operacje_Zbiorowe.exe -Wl,--out-implib,libOperacje_Zbiorowe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Operacje_Zbiorowe.dir\linklibs.rsp

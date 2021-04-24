@@ -1,0 +1,3 @@
+C:/Users/cichy/CLionProjects/Operacje Zbiorowe/cmake-build-debug/CMakeFiles/Operacje_Zbiorowe.dir
+C:/Users/cichy/CLionProjects/Operacje Zbiorowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cichy/CLionProjects/Operacje Zbiorowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
